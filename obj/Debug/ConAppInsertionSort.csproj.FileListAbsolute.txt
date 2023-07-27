@@ -1,0 +1,8 @@
+D:\Mphasis\Assested Projects\ConAppInsertionSort\ConAppInsertionSort\bin\Debug\ConAppInsertionSort.exe.config
+D:\Mphasis\Assested Projects\ConAppInsertionSort\ConAppInsertionSort\bin\Debug\ConAppInsertionSort.exe
+D:\Mphasis\Assested Projects\ConAppInsertionSort\ConAppInsertionSort\bin\Debug\ConAppInsertionSort.pdb
+D:\Mphasis\Assested Projects\ConAppInsertionSort\ConAppInsertionSort\obj\Debug\ConAppInsertionSort.csproj.AssemblyReference.cache
+D:\Mphasis\Assested Projects\ConAppInsertionSort\ConAppInsertionSort\obj\Debug\ConAppInsertionSort.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Assested Projects\ConAppInsertionSort\ConAppInsertionSort\obj\Debug\ConAppInsertionSort.csproj.CoreCompileInputs.cache
+D:\Mphasis\Assested Projects\ConAppInsertionSort\ConAppInsertionSort\obj\Debug\ConAppInsertionSort.exe
+D:\Mphasis\Assested Projects\ConAppInsertionSort\ConAppInsertionSort\obj\Debug\ConAppInsertionSort.pdb
